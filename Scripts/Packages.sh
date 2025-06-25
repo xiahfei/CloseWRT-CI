@@ -48,7 +48,7 @@ UPDATE_PACKAGE() {
 #UPDATE_PACKAGE "argon" "sbwml/luci-theme-argon" "openwrt-24.10"
 #UPDATE_PACKAGE "kucat" "sirpdboy/luci-theme-kucat" "js"
 UPDATE_PACKAGE "design" "/0x676e67/luci-theme-design" "js"
-UPDATE_PACKAGE "luci-app-linkease" "linkease/nas-packages-luci/luci/luci-app-linkease" "main"
+UPDATE_PACKAGE "luci-app-linkease" "linkease/nas-packages-luci/tree/main/luci" "main"
 UPDATE_PACKAGE "gecoosac" "lwb1978/openwrt-gecoosac" "main"
 #UPDATE_PACKAGE "qbittorrent" "sbwml/luci-app-qbittorrent" "master" "" "qt6base qt6tools rblibtorrent"
 
